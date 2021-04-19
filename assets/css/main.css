@@ -1558,7 +1558,7 @@ input, select, textarea {
 			position: relative;
 			width: 40rem;
 			max-width: 100%;
-			background-color: rgba(27, 31, 34, 0.55);
+			background-color: rgba(27, 31, 34, 0.75);
             /* background-color: #F5F0F6; */
 			border-radius: 4px;
 			opacity: 0;
