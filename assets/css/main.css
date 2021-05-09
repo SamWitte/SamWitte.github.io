@@ -1167,6 +1167,8 @@ input, select, textarea {
 			background-image: url("../../images/bhls_1.jpg");
 			/* background-position: center; */
 			background-size: cover;
+            background-attachment:scroll;
+
             /* /background-size: 10%; */
 			background-repeat: no-repeat;
 			z-index: 1;
